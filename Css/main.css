@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: 'Alegreya Sans';
+}
+.header{
+    background-image: url(../Images/Bakery4.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.head-section{
+    padding-top: 300px;
+    width: 50%;
+    margin: auto;
+}
+.head-section p{
+    font-weight: bold;
+    font-size: 20px;
+    color: #fcfbfbeb;
+    margin-bottom: 20px;
+}
+.head-section h1{
+    color: #ffffffff;
+    margin-bottom: 20px;
+}
+.head-section .btn{
+    color: #ffffffEB;
+    padding: 20px;
+    border :none;
+    margin-top: 30px;
+    
+}
+.head-section .btn1{
+    background-color: tan;
+    margin-right: 10px;
+}
+.head-section .btn2{
+    background-color: transparent;
+    border: 1px #ffffffff solid;
+}
+.about{
+    background-color: white;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.item
+{
+    float: left;
+    width: 50%;
+}
+.bg-light
+{
+    background-color: white;
+}
+.clear-fix{
+    clear: both;
+}
+img{
+    width: 80%;
+}
+h2,h3{
+    font-family: 'Alegreya';
+    margin-bottom: 25px;
+}
+h3{
+    margin-top: 25px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 25px;
+}
+.location{
+    background-color: #f8f8f8;
+    margin-bottom: 100px;
+}
+.h2-padding{
+    padding: 200px 0 0 80px;
+}
+.p-padding{
+    padding: 0 0 0 80px;
+}
+.img-padding{
+    padding: 90px 0 90px 30px;
+}
+.baking{
+    margin-top: 100px;
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.baking .item{
+    width: 33.3%;
+}
+.contact{
+    background-color: #f8f8f8;
+}
+.footer{
+    background-color: #969696;
+}
